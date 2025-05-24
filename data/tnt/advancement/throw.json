@@ -1,0 +1,17 @@
+{
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:using_item",
+            "conditions": {
+                "item": {
+                    "predicates": {
+                        "minecraft:custom_data": "{throwable:1b}"
+                    }
+                }
+            }
+        }
+    },
+    "rewards": {
+        "function": "tnt:throw/throw"
+    }
+}
