@@ -1,4 +1,4 @@
-# TNT-Throw
+# TNT Throw
 Have you ever wanted to pick up that TNT your friend lit in your base and throw it at their base?
 
 Not you?
