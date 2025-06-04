@@ -9,5 +9,3 @@ scoreboard objectives remove motion_z2
 scoreboard objectives remove throw_cooldown
 
 data remove storage tnt:tnt pickup
-
-datapack disable "file/TNT Throw"
