@@ -1,6 +1,7 @@
 {
     "pack": {
-        "pack_format": 88.0,
-        "description": "you can pickup, and throw TNT's now"
+        "description": "you can pickup, and throw TNT's now",
+        "min_format": 71,
+        "max_format": 999
     }
 }
